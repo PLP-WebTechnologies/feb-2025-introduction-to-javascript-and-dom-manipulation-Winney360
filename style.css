@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: greenyellow;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: plum;
+}
+
+#dynamic-text {
+    font-size: 18px;
+    color: blue;
+}
+
+.highlight-text {
+    color: red;
+    font-weight: bold;
+}
+footer{
+    color:black;
+    text-align: center;
+}
